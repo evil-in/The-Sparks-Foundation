@@ -1,6 +1,6 @@
 # Data Science and Business Analytics Internship 
 
-<p> This repository contains the submissions to the tasks assigned by The Sparks Foundation [View website](https://internship.thesparksfoundation.info/index.html). </p>
+<p> This repository contains the submissions to the tasks assigned by The Sparks Foundation.</p> [View website](https://internship.thesparksfoundation.info/index.html)
 
 ## Task List
 
