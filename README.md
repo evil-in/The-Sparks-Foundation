@@ -1,5 +1,4 @@
 # Data Science and Business Analytics Internship 
-[link to website](https://thesparksfoundationsingapore.org/)
 
 <p> This repository contains the submissions to the tasks assigned by The Sparks Foundation. </p>
 
